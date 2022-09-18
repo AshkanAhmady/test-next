@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": 1000,
+      "description": "description 1"
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": 2000,
+      "description": "description 2"
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "price": 3000,
+      "description": "description 3"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "react.js",
+      "category": "react",
+      "description": "description 1"
+    },
+    {
+      "id": 2,
+      "title": "redux",
+      "category": "react",
+      "description": "description 2"
+    },
+    {
+      "id": 3,
+      "title": "next.js",
+      "category": "next",
+      "description": "description 3"
+    },
+    {
+      "id": 4,
+      "title": "react.js & next.js",
+      "category": "next",
+      "description": "description 4"
+    }
+  ],
+  "profile": {
+    "name": "ashkan",
+    "email": "ashkan@gmail.com",
+    "transactions": 22,
+    "balance": 2400,
+    "products": 4
+  }
+}
